@@ -2,7 +2,7 @@
 int main()
 {
 char ch;
-scanf("%c",&ch);
+scanf("%d",&ch);
 if((ch>=97)&&(ch<=122)
 {printf("Alphabet");}
 else
